@@ -1,0 +1,11 @@
+{
+  "name": "fund-tracker",
+  "version": "1.0.0",
+  "description": "Nigeria School Funds Tracker",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Nothing to build'"
+  },
+  "author": "",
+  "license": "ISC"
+}
